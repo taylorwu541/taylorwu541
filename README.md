@@ -1,8 +1,9 @@
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 - 📫 How to reach me **taylor.wusy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="www.linkedin.com/in/szuyi-wu-ba2877280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szuyi-wu-ba2877280" height="30" width="40" /></a>
 </p>
