@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**taylorwu541/taylorwu541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 📫 How to reach me **taylor.wusy@gmail.com**
 
